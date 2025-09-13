@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+transformers
+torch
+librosa
+pydub
+soundfile
