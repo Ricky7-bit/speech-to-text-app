@@ -1,4 +1,5 @@
 🎙️ Speech-to-Text App
+
 A web application that converts speech into text using Flask (backend), React (frontend), and a Deep Learning model (Whisper/Wav2Vec2).
 Supports both file uploads and live microphone recording.
 
